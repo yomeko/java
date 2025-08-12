@@ -4,5 +4,6 @@ public class main {
 		int jikyu;
 		jikyu = 979;
 		System.out.println(jikyu);
+		
 	}
 }
